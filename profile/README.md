@@ -5,50 +5,50 @@
 <a href="https://linkedin.com/company/workingdevshero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" alt="linkedin profile link"></a>
 <a href="https://youtube.com/@workingdevshero"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28px" alt="youtube channel link"></a>
 
-# We Build AI-Powered Software That Ships
+# 🚀 We Build AI-Powered Software That Ships
 
 Your AI-enabled development partner. We help organizations develop intelligent software solutions from initial concept through production deployment.
 
 Visit [workingdevshero.com](https://workingdevshero.com) to learn more or [start your project](https://workingdevshero.com/contact) today.
 
-## Services
+## 🛠️ Services
 
-### Full-Stack Development
+### 💻 Full-Stack Development
 
 End-to-end web and mobile application development for customer-facing products. APIs, databases, cloud infrastructure, CI/CD, and microservices — we handle the full stack so you can focus on your business.
 
 [Learn more](https://workingdevshero.com/services/full-stack)
 
-### Operations & AI Integration
+### 🤖 Operations & AI Integration
 
 Internal tools and AI-powered automation to streamline workflows and boost productivity. From custom dashboards to document processing and chatbot development, we help you work smarter.
 
 [Learn more](https://workingdevshero.com/services/operations-ai)
 
-### Consulting
+### 🧭 Consulting
 
 Technical architecture review, AI strategy roadmaps, and technology stack evaluation. Whether you're modernizing a legacy system or starting from scratch, we'll help you make the right decisions.
 
 [Learn more](https://workingdevshero.com/services/consulting)
 
-## Featured Work
+## ⭐ Featured Work
 
 | Project | Description |
 | --- | --- |
-| [Olympia Fitness](https://workingdevshero.com/portfolio/olympia-fitness) | A performance tracking app for CSCS trainers to administer tests, track athlete progress, and share results with parents. |
-| [Hey Bible](https://workingdevshero.com/portfolio/hey-bible) | A Bible verse lookup and favoriting tool with AI-powered generative art creation from your favorite scriptures. |
+| 💪 [Olympia Fitness](https://workingdevshero.com/portfolio/olympia-fitness) | A performance tracking app for CSCS trainers to administer tests, track athlete progress, and share results with parents. |
+| 📖 [Hey Bible](https://workingdevshero.com/portfolio/hey-bible) | A Bible verse lookup and favoriting tool with AI-powered generative art creation from your favorite scriptures. |
 
 [View all projects](https://workingdevshero.com/portfolio)
 
-## From the Blog
+## 📝 From the Blog
 
-- [From WordPress to Astro in 3 Hours](https://workingdevshero.com/site-redesign-claude-code) — How we rebuilt our site using Claude Code and Opus 4.5
-- [Adventures in AI: MetaGPT](https://workingdevshero.com/adventures-in-ai-metagpt) — Exploring multi-agent AI frameworks
-- [Hero Stack: GitHub Copilot](https://workingdevshero.com/hero-stack-github-copilot) — Our go-to AI coding assistant
+- 🔄 [From WordPress to Astro in 3 Hours](https://workingdevshero.com/site-redesign-claude-code) — How we rebuilt our site using Claude Code and Opus 4.5
+- 🤖 [Adventures in AI: MetaGPT](https://workingdevshero.com/adventures-in-ai-metagpt) — Exploring multi-agent AI frameworks
+- ✈️ [Hero Stack: GitHub Copilot](https://workingdevshero.com/hero-stack-github-copilot) — Our go-to AI coding assistant
 
 [Read more on the blog](https://workingdevshero.com/blog)
 
-## Join the Hero Squad
+## 🦸 Join the Hero Squad
 
 Get AI insights, dev strategies, and lessons from the trenches delivered to your inbox.
 
@@ -56,4 +56,4 @@ Get AI insights, dev strategies, and lessons from the trenches delivered to your
 
 ---
 
-**Ready to build something?** Reach out at [hello@workingdevshero.com](mailto:hello@workingdevshero.com) or [start your project](https://workingdevshero.com/contact).
+**Ready to build something?** 📬 Reach out at [hello@workingdevshero.com](mailto:hello@workingdevshero.com) or [start your project](https://workingdevshero.com/contact).
