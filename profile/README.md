@@ -43,9 +43,9 @@ Technical architecture review, AI strategy roadmaps, and technology stack evalua
 
 ## 📝 From the Blog
 
+- 🤖 [Enhancing MCP Servers for Revit](https://workingdevshero.com/mcp-servers-for-revit) — How we helped Sparx Fire consolidate and improve the mcp-servers-for-revit open-source project
 - 🔄 [From WordPress to Astro in 3 Hours](https://workingdevshero.com/site-redesign-claude-code) — How we rebuilt our site using Claude Code and Opus 4.5
-- 🤖 [Adventures in AI: MetaGPT](https://workingdevshero.com/adventures-in-ai-metagpt) — Exploring multi-agent AI frameworks
-- ✈️ [Hero Stack: GitHub Copilot](https://workingdevshero.com/hero-stack-github-copilot) — Our go-to AI coding assistant
+- 🏃 [Productivity Power-Ups: Treadmill Desk](https://workingdevshero.com/productivity-power-ups-treadmill-desk) — Walking while working for better health and focus
 
 [Read more on the blog](https://workingdevshero.com/blog)
 
