@@ -31,14 +31,15 @@ Technical architecture review, AI strategy roadmaps, and technology stack evalua
 
 [Learn more](https://workingdevshero.com/services/consulting)
 
-## ⭐ Featured Work
+## ⭐ Our Work
 
 | Project | Description |
 | --- | --- |
+| 🔧 [MCP Servers for Revit](https://workingdevshero.com/portfolio/mcp-servers-for-revit) | Enhanced an open-source project connecting AI assistants to Revit for natural language building design. |
 | 💪 [Olympia Fitness](https://workingdevshero.com/portfolio/olympia-fitness) | A performance tracking app for CSCS trainers to administer tests, track athlete progress, and share results with parents. |
 | 📖 [Hey Bible](https://workingdevshero.com/portfolio/hey-bible) | A Bible verse lookup and favoriting tool with AI-powered generative art creation from your favorite scriptures. |
-
-[View all projects](https://workingdevshero.com/portfolio)
+| 📝 [Markydowny](https://workingdevshero.com/portfolio/markydowny) | A simple, beautiful browser-based markdown renderer with folder support and embedded images. |
+| 📊 [Chart Splat](https://workingdevshero.com/portfolio/chartsplat) | A serverless Chart.js API that converts JSON data into beautiful PNG charts in milliseconds. |
 
 ## 📝 From the Blog
 
